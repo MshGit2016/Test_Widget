@@ -1,6 +1,6 @@
 #include "widget.h"
 #include <QApplication>
-
+class SubWindow;
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
